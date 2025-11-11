@@ -4,5 +4,6 @@ GuacGuac
 avocado
 salt
 pepper
+lime
 ## Instructions
 mush
