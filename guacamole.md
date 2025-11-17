@@ -6,6 +6,7 @@ salt
 pepper
 lime
 ## Instructions
+Peel the avocado :)
 mush
 put guac on tortilla
 eat tortilla
