@@ -1,15 +1,18 @@
 # Guacamole
-GuacGuac
+* GuacGuac
+
 ## Ingredients
-avocado
-salt
-pepper
-lime
+* avocado
+* salt
+* pepper
+* lime
+
 ## Instructions
-Peel the avocado and put the avocado into a bowl
-mush
-put guac on tortilla
-eat tortilla
+* Peel the avocado and put the avocado into a bowl
+* mush
+* put guac on tortilla
+* eat tortilla
+
 ## Price
-avocado: 5$
-lime: 1$
+* avocado: 5$
+* lime: 1$
